@@ -1,0 +1,1 @@
+This is a simple 60% keyboard, tofuneko60! Compatible with DZ60V2 Flex Cut PCB
