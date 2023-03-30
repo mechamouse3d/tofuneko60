@@ -1,6 +1,6 @@
 This is a simple 60% keyboard, tofuneko60! Compatible with DZ60V2 Flex Cut PCB!
-Check out this [video](https://www.youtube.com/watch?v=nF8jQaFd1yE&ab_channel=MechaMouse3D)
 
+Check out this [video](https://www.youtube.com/watch?v=nF8jQaFd1yE&ab_channel=MechaMouse3D)
 
 ![DSCF1059](https://user-images.githubusercontent.com/48774543/228724289-96501d37-558e-495e-aef6-eb0cb43b5a47.JPG)
 
